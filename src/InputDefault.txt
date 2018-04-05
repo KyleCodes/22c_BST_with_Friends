@@ -1,0 +1,10 @@
+Steve	Jobs	1955-02-24
+Bruce	Wayne	1939-05-27
+Bill	Gates	1955-10-28
+Cesar	Chavez	1927-03-31
+Oprah	Winfrey	1954-01-29
+Elon	Musk	1971-06-28
+Mahatma	Gandhi	1869-10-02
+Tony	Stark	1970-05-29
+Kanye	West	1977-06-08
+Penelope	Cruz	1974-04-28
